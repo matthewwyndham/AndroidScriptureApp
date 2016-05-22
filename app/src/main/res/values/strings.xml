@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Scripture Referece</string>
+    <string name="book">Enter a Book name</string>
+    <string name="chapter">Enter a Chapter</string>
+    <string name="verse">Enter a Verse</string>
+    <string name="button_share">Share</string>
+</resources>
